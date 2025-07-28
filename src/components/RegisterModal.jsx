@@ -3,11 +3,11 @@ import { Modal, Button, Form } from 'react-bootstrap';
 import Visibility from '@mui/icons-material/Visibility';
 import VisibilityOff from '@mui/icons-material/VisibilityOff';
 import { userContext } from '../context/userContext';
-import { post } from '../api/api';
+import { post, get_conf } from '../api/api';
 import './auth.css';
 
 const RegisterModal = () => {
-  const { showRegister, setShowLogin, setShowRegister, setReenviado } = useContext(userContext);
+  const { showRegister, setShowLogin, setShowRegister, setReenviado, setUser } = useContext(userContext);
 
   const [formData, setFormData] = useState({ CURP: '', Email: '', Password: '' });
   const [showPassword, setShowPassword] = useState(false);
@@ -78,9 +78,7 @@ const RegisterModal = () => {
 
   const verificarConfirmacion = async () => {
     try {
-      const response = await fetch(
-        `https://localhost:57699/api/auth/is-confirmed?email=${encodeURIComponent(formData.Email)}`
-      );
+      const response = await get_conf('/Auth/is-confirmed', encodeURIComponent(formData.Email));
 
       if (!response.ok) {
         const text = await response.text();
@@ -92,7 +90,7 @@ const RegisterModal = () => {
 
       if (data.confirmed) {
         clearInterval(intervalId);
-        handleLoguin(formData.Email, data.token); // si data.token existe
+        handleLogin(formData.Email, data.token); // si data.token existe
         resetForm();
         setShowRegister(false);
       }

@@ -10,13 +10,7 @@ import './Header.css';
 
 export default function Header() {
     const { t } = useTranslation();
-    const {user, setShowLogin, setShowRegister, handleLoguin} = useContext(userContext); // Asumiendo que usas este contexto
-
-    const handleLogOut = () => {
-        localStorage.removeItem("userEmail");
-        localStorage.removeItem("userToken");
-        setUser(null);
-    };
+    const {user, setShowLogin, setShowRegister, handleLogOut} = useContext(userContext); // Asumiendo que usas este contexto
 
     return (
         <header>

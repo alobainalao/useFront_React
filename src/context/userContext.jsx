@@ -20,20 +20,27 @@ export const UserProvider = ({ children }) => {
         setShowLogin(false);
     };
 
+    const handleLogOut = () => {
+        localStorage.removeItem("userEmail");
+        localStorage.removeItem("userToken");
+        setUser(null);
+    };
     
-
     return (
-        <userContext.Provider value={{
-            showLogin,
-            setShowLogin,
-            showRegister,
-            setShowRegister,
-            handleLogin,
-            setReenviado, 
-            reenviado,
-            setShowLogin,
-            user,
-        }}>
+        <userContext.Provider 
+            value={{
+                showLogin,
+                setShowLogin,
+                showRegister,
+                setShowRegister,
+                handleLogin,
+                setReenviado, 
+                reenviado,
+                setShowLogin,
+                user,
+                setUser,
+                handleLogOut,
+            }}>
             {children}
         </userContext.Provider>
     );

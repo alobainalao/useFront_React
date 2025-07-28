@@ -1,4 +1,4 @@
-const API_URL = 'https://localhost:57699/api';
+const API_URL = 'https://userback-net.onrender.com/api';
 
 function getToken() {
     const tokenStorage = localStorage.getItem("token");
@@ -35,6 +35,16 @@ export const get = async (endpoint) => {
             headers: headers(),
         });
         return await handleResponse(response);
+    } catch (error) {
+        console.error('GET request failed:', error);
+        throw error;
+    }
+};
+
+export const get_conf = async (endpoint, email) => {
+    
+    try {       
+        return await fetch(`${API_URL}${endpoint}?email=${email}`);
     } catch (error) {
         console.error('GET request failed:', error);
         throw error;
