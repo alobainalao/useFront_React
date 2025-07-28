@@ -30,7 +30,6 @@ export const UserProvider = ({ children }) => {
         <userContext.Provider 
             value={{
                 showLogin,
-                setShowLogin,
                 showRegister,
                 setShowRegister,
                 handleLogin,
