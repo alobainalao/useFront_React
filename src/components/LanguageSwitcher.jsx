@@ -13,14 +13,14 @@ export default function LanguageSwitcher() {
     return (
         <div className="language-switcher">
             <img
-                src="/en.png"
+                src={`${import.meta.env.BASE_URL}en.png`}
                 alt="English"
                 onClick={() => changeLanguage('en')}
                 className={`language-flag ${isActive('en') ? 'language-active' : ''}`}
             />
             <img
-                src="/es.png"
-                alt="Español"
+                src={`${import.meta.env.BASE_URL}es.png`}
+                alt="Espaï¿½ol"
                 onClick={() => changeLanguage('es')}
                 className={`language-flag ${isActive('es') ? 'language-active' : ''}`}
             />

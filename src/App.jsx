@@ -8,7 +8,7 @@ import { UserProvider } from './context/userContext'; // 👈 importa tu provide
 function App() {
     return (
         <UserProvider> {/* 👈 envuelve toda tu app */}
-            <Router>
+            <Router basename="/useFront_React">
                 <Header />
                 <Routes>
                     <Route path="/" element={<Home />} />
