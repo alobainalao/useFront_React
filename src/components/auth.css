@@ -1,0 +1,171 @@
+/* === Modal Container === */
+
+/* === Modal flotante sin fondo oscuro === */
+.modal-backdrop {
+  display: none !important; /* elimina el fondo */
+}
+
+.modal-dialog {
+  position: fixed;
+  top: 10%;
+  left: 25%;
+  margin: 0;
+  z-index: 1055;
+}
+
+.modal-content {
+  background-color:#f8f4f0;
+  padding: 1.0rem;
+  border-radius: 1rem;
+  max-width: 400px;
+  width: 95%;
+  margin: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  animation: modalFadeIn 0.35s ease forwards;
+  border: none;
+  color: #222;
+}
+
+/* === Animación de entrada === */
+@keyframes modalFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-15%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Form Labels === */
+.form-label {
+  font-weight: 600;
+  color: #444;
+  margin-bottom: 0.4rem;
+  display: block;
+  font-size: 1rem;
+}
+
+/* === Inputs === */
+.form-control {
+  width: 100%;
+  border: 1.8px solid #ccc;
+  border-radius: 0.5rem;
+  padding: 0.65rem 1rem;
+  font-size: 1rem;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+  outline-offset: 2px;
+}
+
+.form-control:focus {
+  border-color: #800020; /* vino */
+  box-shadow: 0 0 8px rgba(128, 0, 32, 0.45);
+  outline: none;
+}
+
+/* === Container para input + icono mostrar contraseña === */
+.password-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon-view {
+  margin-left: 0.75rem;
+  cursor: pointer;
+  color: #888;
+  transition: color 0.3s ease;
+}
+
+.icon-view:hover {
+  color: #800020;
+}
+
+/* === Botones === */
+.btn-primary {
+  margin-top: 1%;
+  background-color: #AD6363;
+  color: wheat;
+  border: none;
+  font-weight: 700;
+  padding: 0.3rem 0.5rem;
+  border-radius: 0.6rem ;
+  font-size: 1.0rem;
+  transition: background-color 0.3s ease, transform 0.12s ease;
+}
+
+.btn-primary:hover {
+  background-color: #a6192e;
+  transform: scale(1.04);
+}
+
+.btn-link {
+  margin: 1rem;
+  font-size: 0.9rem;
+  color: #800020;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+  display: inline-block;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.btn-link:hover {
+  background: none;
+  transform: scale(1.04);
+}
+
+/* === Mensajes de estado === */
+.auth-message {
+  margin-top: 1.25rem;
+  font-size: 1rem;
+  text-align: center;
+  font-weight: 600;
+  user-select: none;
+}
+
+.auth-message.success {
+  color: #228822;
+}
+
+.auth-message.error {
+  color: #bb2222;
+}
+
+/* === Responsive === */
+@media (max-width: 600px) {
+  .modal-content {
+    padding: 0.5rem;
+    width: 98%;
+  }
+
+  .form-label {
+    font-size: 0.95rem;
+  }
+
+  .form-control {
+    font-size: 0.95rem;
+    padding: 0.2rem ;
+  }
+
+  .btn-primary {
+    font-size: 0.7rem;
+    padding: 2% 3%;
+  }
+
+  .icon-view {
+    font-size: 1.0rem;
+  }
+
+  .btn-link {
+    font-size: 0.7rem;
+  }
+
+  .modal-dialog {
+  left: 5%;
+}
+}
+
+

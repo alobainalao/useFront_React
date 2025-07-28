@@ -1,0 +1,155 @@
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* Landing Page */
+.landing-page {
+    position: relative;
+    width: 100vw;
+    min-height: 100vh;
+    background-color: #f8f8f8;
+    overflow: hidden;
+}
+
+/* Fondo */
+.background-image {
+    position: absolute;
+    top: 5%;
+    left: 0;
+    width: 100%;
+    height: 95%;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    filter: brightness(0.8);
+    z-index: 1;
+}
+
+/* Contenido principal */
+.content {
+    position: relative;
+    z-index: 10;
+    color: #5b0a0a;
+    padding: 8% 5% 3% 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+/* Bloque izquierdo de contenido */
+.landing_content {
+    max-width: 50%;
+    flex: 1;
+}
+
+/* Tipograf�a */
+h1 {
+    color: #AD6363;
+    font-size: 3rem;
+    margin-top: 10vh;
+    
+}
+
+p {
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 1.5em;
+}
+
+/* Bot�n */
+.get-started-button {
+    background-color: #d7bfae;
+    color: #5b0a0a;
+    font-weight: bold;
+    padding: 0.8rem 1.75rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-top: 1.5rem;
+    align-self: flex-end;
+}
+
+    .get-started-button:hover {
+        background-color: #5b0a0a;
+        color: white;
+    }
+
+/* About Us */
+.aboutus-container {
+    color: #f5f3f0;
+    font-family: 'Georgia', serif;
+    line-height: 1.8;
+    flex: 1;
+    min-width: 280px;
+}
+
+.about-us-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #d6b46a;
+    text-align: center;
+}
+
+.about-us-content {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+/* Responsive: Tablets */
+@media screen and (max-width: 768px) {
+    .background-image {
+        top: 2%;
+        height: 98%;
+    }
+
+    .content {
+        flex-direction: column;
+        align-items: center;
+        padding: 10% 5%;
+    }
+
+    .landing_content {
+        max-width: 90vw;
+    }
+
+    .aboutus-container {
+        max-width: 90vw;
+    }
+
+    .get-started-button {
+        font-size: 0.9rem;
+        margin-top: 1rem;
+        align-self: center;
+    }
+}
+
+/* Responsive: M�viles */
+@media screen and (max-width: 480px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
+
+    .about-us-title {
+        font-size: 1.5rem;
+    }
+
+    .get-started-button {
+        font-size: 0.8rem;
+        padding: 0.6rem 1.5rem;
+    }
+}

@@ -1,0 +1,105 @@
+﻿{
+  "title": "Mi Portafolio",
+  "welcome": "Bienvenido a la Biblioteca Virtual El Roble",
+  "library": {
+    "name": "Biblioteca Virtual El Roble",
+    "tagline": "Conocimiento al alcance de todos"
+  },
+  "nav": {
+    "home": "Inicio",
+    "register": "Registrar",
+    "login": "Entrar",
+    "logout": "Salir",
+    "contact": "Contacto",
+    "projects": "Proyectos"
+  },
+  "language": {
+    "label": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés"
+  },
+  "profile": {
+    "title": "Desarrollador Full Stack y Científico de Datos"
+  },
+  "about": {
+    "text": "Soy ingeniero de software y matemático con experiencia en desarrollo backend y frontend, ciencia de datos y modelado matemático. Me especializo en crear aplicaciones escalables y soluciones basadas en datos usando React, .Net, C#, Python, SQL y aprendizaje automático. Me apasiona escribir código limpio y aplicar análisis avanzados para apoyar la toma de decisiones inteligentes."
+  },
+  "projectList": {
+    "view": "Ver"
+  },
+  "sections": {
+    "developer": {
+      "title": "Desarrollador",
+      "content": "Aquí puedes ver mis proyectos relacionados con el desarrollo web y de software.",
+      "projects": [
+        {
+          "title": "Gestión de Usuarios",
+          "description": "Sistema completo con autenticación JWT, roles y CRUD de usuarios usando React y .Net.",
+          "link": "https://github.com/alobainalao/user-management-app"
+        },
+        {
+          "title": "E-commerce de Vinos y Licores",
+          "description": "Tienda en línea para la venta de vinos y licores, con carrito de compras y proceso de pago simulado usando React.",
+          "link": "https://alobainalao.github.io/e-plantShopping/"
+        },
+        {
+          "title": "Dashboard de Analytics",
+          "description": "Visualización de métricas en tiempo real con gráficos interactivos. Frontend en React, backend en Express.",
+          "link": "https://github.com/alobainalao/analytics-dashboard"
+        },
+        {
+          "title": "Blog CMS",
+          "description": "Sistema de blog con editor WYSIWYG, subida de imágenes y control de publicaciones.",
+          "link": "https://github.com/alobainalao/blog-cms"
+        },
+        {
+          "title": "Tareas colaborativas",
+          "description": "App tipo Trello con gestión de tareas por tableros, usuarios y notificaciones.",
+          "link": "https://github.com/alobainalao/task-manager"
+        },
+        {
+          "title": "Sistema de Reservas",
+          "description": "App para reservar citas con calendario interactivo, control de disponibilidad y notificaciones.",
+          "link": "https://github.com/alobainalao/booking-app"
+        }
+      ]
+    },
+
+    "dataScience": {
+      "title": "Ciencia de Datos",
+      "content": "Aquí puedes ver mis proyectos relacionados con el desarrollo web y de software.",
+      "projects": [
+        {
+          "title": "CRUD con React",
+          "description": "CRUD simple con hooks",
+          "link": "https://github.com/alobainalao/finalProject.git"
+        },
+        {
+          "title": "API Node",
+          "description": "API REST usando Express",
+          "link": "https://github.com/tuusuario/node-api"
+        },
+        {
+          "title": "API Node",
+          "description": "API REST usando Express",
+          "link": "https://github.com/tuusuario/node-api"
+        },
+        {
+          "title": "API Node",
+          "description": "API REST usando Express",
+          "link": "https://github.com/tuusuario/node-api"
+        },
+        {
+          "title": "API Node",
+          "description": "API REST usando Express",
+          "link": "https://github.com/tuusuario/node-api"
+        },
+        {
+          "title": "API Node",
+          "description": "API REST usando Express",
+          "link": "https://github.com/tuusuario/node-api"
+        }
+      ]
+    }
+  }
+}
