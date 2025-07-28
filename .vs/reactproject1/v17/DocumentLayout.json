@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\components\\invstatecomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\components\\invstatecomponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\components\\formcomponents\\concepts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\components\\formcomponents\\concepts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\components\\formcomponents\\conceptsform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\components\\formcomponents\\conceptsform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\pages\\newtax.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\pages\\newtax.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\components\\formcomponents\\formulario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\components\\formcomponents\\formulario.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\components\\formcomponents\\formulario.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\components\\formcomponents\\formulario.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\public\\locales\\es\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:public\\locales\\es\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\pages\\newinvoice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\pages\\newinvoice.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|c:\\users\\aloba\\onedrive\\documentos\\mywebsites\\repo\\smart100v2\\frontend\\public\\locales\\en\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7604A7CC-8BC3-41E7-BB99-33FC1916124E}|reactproject1.esproj|solutionrelative:public\\locales\\en\\translation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "translation.json",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\public\\locales\\es\\translation.json",
+              "RelativeDocumentMoniker": "public\\locales\\es\\translation.json",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\public\\locales\\es\\translation.json",
+              "RelativeToolTip": "public\\locales\\es\\translation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T19:13:18.269Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "src\\pages\\Home.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-22T23:32:20.396Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "translation.json",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\public\\locales\\en\\translation.json",
+              "RelativeDocumentMoniker": "public\\locales\\en\\translation.json",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\public\\locales\\en\\translation.json",
+              "RelativeToolTip": "public\\locales\\en\\translation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T04:43:46.855Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvStateComponent.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\InvStateComponent.jsx",
+              "RelativeDocumentMoniker": "src\\components\\InvStateComponent.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\InvStateComponent.jsx",
+              "RelativeToolTip": "src\\components\\InvStateComponent.jsx",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-28T06:33:27.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formulario.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Formulario.jsx",
+              "RelativeDocumentMoniker": "src\\components\\formComponents\\Formulario.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Formulario.jsx",
+              "RelativeToolTip": "src\\components\\formComponents\\Formulario.jsx",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-27T16:50:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Concepts.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Concepts.jsx",
+              "RelativeDocumentMoniker": "src\\components\\formComponents\\Concepts.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Concepts.jsx",
+              "RelativeToolTip": "src\\components\\formComponents\\Concepts.jsx",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAcwPgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-27T06:53:47.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewInvoice.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\NewInvoice.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\NewInvoice.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\NewInvoice.jsx",
+              "RelativeToolTip": "src\\pages\\NewInvoice.jsx",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-27T06:50:12.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Formulario.css",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Formulario.css",
+              "RelativeDocumentMoniker": "src\\components\\formComponents\\Formulario.css",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\Formulario.css",
+              "RelativeToolTip": "src\\components\\formComponents\\Formulario.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-26T18:14:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConceptsForm.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\ConceptsForm.jsx",
+              "RelativeDocumentMoniker": "src\\components\\formComponents\\ConceptsForm.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\components\\formComponents\\ConceptsForm.jsx",
+              "RelativeToolTip": "src\\components\\formComponents\\ConceptsForm.jsx",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T17:51:18.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\api\\api.js",
+              "RelativeDocumentMoniker": "src\\api\\api.js",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\api\\api.js",
+              "RelativeToolTip": "src\\api\\api.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-26T17:13:23.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewTax.jsx",
+              "DocumentMoniker": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\NewTax.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\NewTax.jsx",
+              "ToolTip": "C:\\Users\\aloba\\OneDrive\\Documentos\\MyWebSites\\repo\\Smart100V2\\Frontend\\src\\pages\\NewTax.jsx",
+              "RelativeToolTip": "src\\pages\\NewTax.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-26T16:00:24.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
